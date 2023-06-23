@@ -23,6 +23,9 @@ Generally, there are 3 categories of Window Functions based on the kind of outpu
 
 * Ranking Functions - Rank(), Dense_Rank(), Row_Number(), Percent_Rank(), Ntile()
 
-* Value Functions - Lead(), Lag(), First_Value(), Last_Value(), Nth_Value(). Sometimes, the Ranking and Value functions are grouped as 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐚𝐥 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬. Examples in the attached slide are for Analytical Functions as Aggregate Functions are considered part of basic SQL syntax.
+* Value Functions - Lead(), Lag(), First_Value(), Last_Value(), Nth_Value().
 
-![Uploading SQL - Windows Functions.jpg…]()
+* Sometimes, the Ranking and Value functions are grouped as 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐚𝐥 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬. Examples in the attached slide are for Analytical Functions as Aggregate Functions are considered part of basic SQL syntax.
+
+![SQL - Windows Functions](https://github.com/leks39/SQL---Window-Functions/assets/113634690/42823a29-aae4-4764-b60c-6810fe4243c5)
+
