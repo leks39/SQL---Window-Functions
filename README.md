@@ -1,9 +1,9 @@
-# SQL---Window-Functions
+# SQL - Window Functions
 Explaining the most popular SQL Windows Functions using examples
 
 After mastering basic SQL concepts such as Select, From, Where, Joins, and Group By, Order By, to mention a few. Naturally, the next step is learning more advanced concepts like Windows Functions, Common Table Expressions (CTEs), Sub Queries, Pivots, Manipulating Datetimes etc. Knowledge of these concepts is what helps while attempting medium/advanced queries on StrataScratch and LeetCode during the interview prep phase.
 
-This post focuses on 𝐖𝐢𝐧𝐝𝐨𝐰 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬, the clauses, categories and use of the 10 most popular types explained with examples. The Unicorn companies dataset which was sourced from the Maven Analytics data playground was sued in demonstrating these examples.
+This project focuses on 𝐖𝐢𝐧𝐝𝐨𝐰 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬, the clauses, categories and use of the 10 most popular types explained with examples. The Unicorn companies dataset which was sourced from the Maven Analytics data playground was sued in demonstrating these examples.
 
 Firstly, what are Window Functions? They are special in-built functions in SQL that return a value from a group of rows for each row. This is executed by performing calculations across a set of table rows (windows) that are somehow related to the current row. Their usage makes SQL code faster to execute and easier to understand by others.
 
